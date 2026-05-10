@@ -14,9 +14,9 @@ int main()
 	for (int i = 0; i < 6; ++i)
 	{
 		if (arr[i] < 5)
-			cout << i << "¹øÀº " << arr[i] << "Á¡ ºÒÇÕ°Ý" << endl;
+			cout << i << "ë²ˆì€ " << arr[i] << "ì  ë¶ˆí•©ê²©" << endl;
 		else
-			cout << i << "¹øÀº " << arr[i] << "Á¡ ÇÕ°Ý" << endl;
+			cout << i << "ë²ˆì€ " << arr[i] << "ì  í•©ê²©" << endl;
 	}
 
 	return 0;
