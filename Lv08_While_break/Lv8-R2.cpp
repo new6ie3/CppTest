@@ -12,7 +12,7 @@ int main()
 	for (int i = 0; i < 6; ++i)
 	{
 		if (str[i] == find)
-			cout << i << "¹ø INDEX";
+			cout << i << "Â¹Ã¸ INDEX";
 	}
 
 	return 0;
