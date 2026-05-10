@@ -9,9 +9,9 @@ int main()
 	for (int i = 0; i < 6; ++i)
 	{
 		if (arr[i] == '#')
-			cout << "¼¥";
+			cout << "Â¼Â¥";
 		else if (arr[i] == '-')
-			cout << "¹«";
+			cout << "Â¹Â«";
 	}
 
 	return 0;
