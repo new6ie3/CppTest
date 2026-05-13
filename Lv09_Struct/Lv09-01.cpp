@@ -16,7 +16,7 @@ int main()
 			count++;
 	}
 
-	cout << "¼ıÀÚ" << input << "°³¼ö´Â" << count << "°³";
+	cout << "Â¼Ã½Ã€Ãš" << input << "Â°Â³Â¼Ã¶Â´Ã‚" << count << "Â°Â³";
 
 	return 0;
 }
