@@ -20,7 +20,7 @@ int main()
 			if (input[i] == vect[j])
 				count++;
 		}
-		cout << count << "°³" << endl;
+		cout << count << "Â°Â³" << endl;
 	}
 
 	return 0;
